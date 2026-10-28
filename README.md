@@ -38,7 +38,7 @@ I am a **Senior QA Automation Engineer & SDET wizard** with **9+ years** archite
 | 🌐 **Interactive Web** | **[avilano.github.io/resume](https://avilano.github.io/resume/)** | Responsive web portfolio with light/dark theme & print-ready CSS |
 | 📥 **Official PDF** | **[Download Latest PDF](https://github.com/avilano/resume/raw/master/Alberto_Vilano_Resume.pdf)** | Direct download of my current 2026 PDF resume |
 | 📋 **JSON Resume** | **[resume.json](https://github.com/avilano/resume/blob/master/resume.json)** | Machine-readable schema compliant with JSON Resume v1.0 |
-| 💻 **Terminal CLI** | `npx avilano-resume` | Interactive terminal card & CLI flags right in your shell |
+| 💻 **Terminal CLI** | `npx github:avilano/resume` | Interactive terminal card & CLI flags right in your shell |
 | 🐙 **Source Repo** | **[avilano/resume](https://github.com/avilano/resume)** | Resume-as-Code repository with GitHub Actions CI/CD pipeline |
 
 ---
@@ -46,13 +46,13 @@ I am a **Senior QA Automation Engineer & SDET wizard** with **9+ years** archite
 ## 💻 Run My Resume in Your Terminal
 
 ```bash
-# Run instantly with npx:
-npx avilano-resume
+# Run instantly from GitHub with npx:
+npx github:avilano/resume
 
 # Or with specific flags:
-npx avilano-resume --skills
-npx avilano-resume --experience
-npx avilano-resume --all
+npx github:avilano/resume --skills
+npx github:avilano/resume --experience
+npx github:avilano/resume --all
 ```
 
 ---
