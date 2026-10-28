@@ -1,75 +1,41 @@
-<div align="center">
+# Alberto E. Vilano Reyna 👋
+### Senior QA Automation Engineer | AI Test Architecture
 
-# Hi there, I'm Alberto E. Vilano Reyna 👋
-### **Senior QA Automation Engineer | AI Test Architecture**
-
-[![Interactive Resume](https://img.shields.io/badge/Live_Resume-avilano.github.io%2Fresume-brightgreen?style=for-the-badge&logo=githubpages)](https://avilano.github.io/resume/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Vilano-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avilano)
-[![Email](https://img.shields.io/badge/Email-vira0092%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:vira0092@gmail.com)
-
-<br/>
-
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://linkedin.com/in/avilano)
-[![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified_Tester_(FL)-00529B?style=flat-square)](https://linkedin.com/in/avilano)
-[![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-ES6+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Location](https://img.shields.io/badge/Location-Mexico_(Remote)-blue?style=flat-square)](https://linkedin.com/in/avilano)
+[![Interactive Resume](https://img.shields.io/badge/Live_Resume-avilano.github.io%2Fresume-brightgreen?style=flat-square&logo=githubpages)](https://avilano.github.io/resume/)
+[![GitHub Resume Repo](https://img.shields.io/badge/Resume_Repo-avilano%2Fresume-blue?style=flat-square&logo=github)](https://github.com/avilano/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avilano-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/avilano)
+[![Email](https://img.shields.io/badge/Email-vira0092%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:vira0092@gmail.com)
 
 ---
 
-</div>
+### 👨‍💻 About
 
-## 🚀 About Me
+I'm a **Senior Software Development Engineer in Test (SDET)** with 9+ years of hands-on experience building production-grade test frameworks, automated CI/CD quality gates, and AI-driven testing tools.
 
-I am a **Senior QA Automation Engineer & SDET wizard** with **9+ years** architecting production-grade test suites, developer tooling, and automated quality gates across high-reliability platforms.
-
-* 🔭 **Currently:** Leading squad quality strategy and developer tooling at **[Coursedog](https://www.coursedog.com)**.
-* 🤖 **AI Test Architecture:** Authoring custom **MCP servers**, orchestrating agent skills (`SKILL.md`), and deploying AI agents for code review quality gates and automated Playwright spec generation.
-* ⚡ **Scale & Modernization:** Migrated **200+ specs** from Cypress to Playwright, implemented PR-level smoke gates protecting **1,200+ tests**, cut CI execution cycle times by **30%**, and reduced test flakiness by **>20%**.
-* 🛡️ **Observability & Resilience:** Deep background in production incident triage, root cause analysis (RCA), and telemetry log-matching using **Datadog**, **AWS CloudWatch**, and **New Relic**.
+* 🏢 **Currently:** Senior SDET at **[Coursedog](https://www.coursedog.com)**, focusing on test framework modernization (Playwright), accessibility release gates, and developer productivity tooling.
+* 🤖 **AI-Driven Quality Engineering:** Authoring custom Model Context Protocol (**MCP**) servers, designing specialized agent skills (`SKILL.md`), and orchestrating AI workflows for automated spec generation and code review quality checks.
+* 🛠️ **Core Focus:** Playwright • TypeScript • Python • CI/CD Quality Gates (GitHub Actions) • API Automation • Production Observability (Datadog, AWS CloudWatch, New Relic).
 
 ---
 
-## 📄 Resume & Portfolio Hub
+### 📄 Resume & Portfolio Hub
 
-| Format | Access Link | Description |
-| :--- | :--- | :--- |
-| 🌐 **Interactive Web** | **[avilano.github.io/resume](https://avilano.github.io/resume/)** | Responsive web portfolio with light/dark theme & print-ready CSS |
-| 📥 **Official PDF** | **[Download Latest PDF](https://github.com/avilano/resume/raw/master/Alberto_Vilano_Resume.pdf)** | Direct download of my current 2026 PDF resume |
-| 📋 **JSON Resume** | **[resume.json](https://github.com/avilano/resume/blob/master/resume.json)** | Machine-readable schema compliant with JSON Resume v1.0 |
-| 💻 **Terminal CLI** | `npx github:avilano/resume` | Interactive terminal card & CLI flags right in your shell |
-| 🐙 **Source Repo** | **[avilano/resume](https://github.com/avilano/resume)** | Resume-as-Code repository with GitHub Actions CI/CD pipeline |
+Looking for my complete career history, technical matrix, or credentials?
+
+* 🌐 **[Interactive Web Resume](https://avilano.github.io/resume/)** — Responsive view with light/dark theme & print-ready CSS.
+* 📥 **[Download PDF Resume](https://github.com/avilano/resume/raw/master/Alberto_Vilano_Resume.pdf)** — Latest 2026 version.
+* 🐙 **[Resume as Code Repository](https://github.com/avilano/resume)** — Full source with JSON Resume schema and CI/CD pipelines.
 
 ---
 
-## 💻 Run My Resume in Your Terminal
+### 💻 Run My Resume in Your Terminal
 
 ```bash
-# Run instantly from GitHub with npx:
 npx github:avilano/resume
-
-# Or with specific flags:
-npx github:avilano/resume --skills
-npx github:avilano/resume --experience
-npx github:avilano/resume --all
-```
-
----
-
-## 🛠️ Core Technical Competencies
-
-```
-AI & Agent Orchestration  : Claude Code, Cursor IDE, Gemini, MCP Servers, SKILL.md, LLM Evals, Synthetic Data
-Automation & Mobile       : Playwright, Cypress, Appium, Selenium WebDriver, Cucumber (BDD), Grafana K6, Applitools
-Languages & Backend       : TypeScript, JavaScript (ES6+), Python, SQL, Java (Spring Boot), Bash/Shell
-API & Observability       : RESTful APIs, Microservices, Postman, Bruno, Datadog (APM/Logs), New Relic, CloudWatch
-DevOps & Cloud            : GitHub Actions, Jenkins, Docker, AWS (S3, EC2, CloudWatch), CI/CD Quality Gates
 ```
 
 ---
 
 <div align="center">
-  <b>Let's build reliable software together.</b><br/>
-  📫 Reach out at <a href="mailto:vira0092@gmail.com">vira0092@gmail.com</a> &bull; Connect on <a href="https://linkedin.com/in/avilano">LinkedIn</a>
+  <sub>Let's connect: <a href="https://linkedin.com/in/avilano">linkedin.com/in/avilano</a> &bull; <a href="mailto:vira0092@gmail.com">vira0092@gmail.com</a></sub>
 </div>
