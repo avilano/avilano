@@ -1,6 +1,6 @@
 # Hey, I'm Alberto 👋
 
-I'm a **Senior QA Automation Engineer** based in Mexico, currently doing SDET work at **[Coursedog](https://www.coursedog.com)**. I spend most of my time modernizing test suites (big fan of Playwright & TypeScript), speeding up CI/CD pipelines, and building AI tools that make testing less painful.
+I'm a **Senior QA Automation Engineer** based in Mexico, currently pushing AI to its limits. I spend most of my time modernizing test suites (big fan of Playwright & TypeScript), speeding up CI/CD pipelines, and building AI tools that make testing less painful.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a **Senior QA Automation Engineer** based in Mexico, currently doing SDET wo
 
 ### 📄 Need my resume?
 
-* 🌐 **[Interactive Web Resume](https://avilano.github.io/resume/)** (has dark mode & 1-click PDF print)
+* 🌐 **[Interactive Web Resume](https://avilano.github.io/resume/)**
 * 📥 **[Download Latest PDF](https://github.com/avilano/resume/raw/master/Alberto_Vilano_Resume.pdf)**
 * 💻 Run it right in your terminal:
   ```bash
@@ -29,5 +29,5 @@ I'm a **Senior QA Automation Engineer** based in Mexico, currently doing SDET wo
 ---
 
 <p align="center">
-  Always happy to chat about test architecture, AI agents, or tech: <a href="https://linkedin.com/in/avilano">LinkedIn</a> &bull; <a href="mailto:vira0092@gmail.com">vira0092@gmail.com</a>
+  Always happy to chat about test architecture, AI agents, or tech!
 </p>
